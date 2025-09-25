@@ -70,7 +70,7 @@ New-Password-manegar-in-mongodb/
 1. রিপোজিটরি ক্লোন করুন:
 
    ```bash
-   git clone https://github.com/masum1234-gok/New-Password-manegar-in-mongodb.git
+   git clone https://github.com/mir-md-masum-billah/New-Password-manegar-in-mongodb.git
    ```
 
 2. `backend/` ডিরেক্টরিতে যান এবং ডিপেন্ডেন্সি ইনস্টল করুন:
